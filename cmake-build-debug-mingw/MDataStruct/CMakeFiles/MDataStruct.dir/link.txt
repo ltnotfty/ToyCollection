@@ -1,0 +1,2 @@
+D:/Cygwin/bin/ar.exe qc libMDataStruct.a CMakeFiles/MDataStruct.dir/FixStr.cpp.obj CMakeFiles/MDataStruct.dir/MDataStruct.cpp.obj
+D:/Cygwin/bin/ranlib.exe libMDataStruct.a

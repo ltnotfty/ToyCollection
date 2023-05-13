@@ -1,0 +1,15 @@
+D:/Project/TestMe/cmake-build-debug-mingw/CMakeFiles/TestMe.dir
+D:/Project/TestMe/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+D:/Project/TestMe/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
+D:/Project/TestMe/cmake-build-debug-mingw/Mutils/CMakeFiles/Mutils.dir
+D:/Project/TestMe/cmake-build-debug-mingw/Mutils/CMakeFiles/edit_cache.dir
+D:/Project/TestMe/cmake-build-debug-mingw/Mutils/CMakeFiles/rebuild_cache.dir
+D:/Project/TestMe/cmake-build-debug-mingw/Malgorithm/CMakeFiles/Malgorithm.dir
+D:/Project/TestMe/cmake-build-debug-mingw/Malgorithm/CMakeFiles/edit_cache.dir
+D:/Project/TestMe/cmake-build-debug-mingw/Malgorithm/CMakeFiles/rebuild_cache.dir
+D:/Project/TestMe/cmake-build-debug-mingw/MDataStruct/CMakeFiles/MDataStruct.dir
+D:/Project/TestMe/cmake-build-debug-mingw/MDataStruct/CMakeFiles/edit_cache.dir
+D:/Project/TestMe/cmake-build-debug-mingw/MDataStruct/CMakeFiles/rebuild_cache.dir
+D:/Project/TestMe/cmake-build-debug-mingw/MConfig/CMakeFiles/MConfig.dir
+D:/Project/TestMe/cmake-build-debug-mingw/MConfig/CMakeFiles/edit_cache.dir
+D:/Project/TestMe/cmake-build-debug-mingw/MConfig/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+D:/Cygwin/bin/ar.exe qc libMalgorithm.a CMakeFiles/Malgorithm.dir/HashFunc.cpp.obj CMakeFiles/Malgorithm.dir/StringSearch.cpp.obj
+D:/Cygwin/bin/ranlib.exe libMalgorithm.a

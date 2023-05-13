@@ -1,0 +1,237 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "TestMe.exe"
+		},
+		{
+			"path" : "TestMe.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_directories",
+			"target_link_libraries",
+			"add_compile_definitions",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 25,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 37,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 47,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				},
+				{
+					"fragment" : "-std=gnu++14"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "TEST"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "D:/Project/TestMe"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "D:/Project/TestMe/cmake-build-debug-mingw"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "D:/Project/TestMe/Mutils"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "D:/Project/TestMe/Malgorithm"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "D:/Project/TestMe/MDataStruct"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "D:/Project/TestMe/MConfig"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "D:/Project/TestMe/ThirdParty"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "14"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "Mutils::@aa137bdceb208c777fd2"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "Malgorithm::@b5032c5ee2eaca699a6d"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "MDataStruct::@56398e0c442b88fc0098"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "MConfig::@8c13a2ee92a5612cc6bd"
+		}
+	],
+	"id" : "TestMe::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-LD:/Project/TestMe/ThirdParty",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "Mutils/libMutils.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "Malgorithm/libMalgorithm.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "MDataStruct/libMDataStruct.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "MConfig/libMConfig.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Wl,-Bstatic",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-lyaml-cppd",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "Mutils/libMutils.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Wl,-Bdynamic",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "TestMe",
+	"nameOnDisk" : "TestMe.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

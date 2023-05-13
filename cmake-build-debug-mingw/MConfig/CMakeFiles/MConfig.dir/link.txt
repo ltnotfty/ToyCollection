@@ -1,0 +1,2 @@
+D:/Cygwin/bin/ar.exe qc libMConfig.a CMakeFiles/MConfig.dir/GlobalConfig.cpp.obj CMakeFiles/MConfig.dir/IniConfig.cpp.obj CMakeFiles/MConfig.dir/YamlConfig.cpp.obj CMakeFiles/MConfig.dir/iConfig.cpp.obj
+D:/Cygwin/bin/ranlib.exe libMConfig.a

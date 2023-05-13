@@ -1,0 +1,5 @@
+D:\Clion_All\CLion-2022.2.4\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -DUSE_YAML=ON -DTESTME=on -S D:\Project\TestMe -B D:\Project\TestMe\cmake-build-debug-mingw
+hello
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Project/TestMe/cmake-build-debug-mingw

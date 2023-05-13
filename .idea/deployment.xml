@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="12_61 (bfe8f049-0be4-451b-b629-1ed05c337d11)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/TestMe" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="192.168.12.61">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Filter (cee89e74-aaf0-43a0-bc48-7768f58c58ce)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.ikaigeLFlq" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (d24a7d8f-8015-4e0d-9e33-e12828913121)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="TM8K (fafa9019-c453-43e2-b3cb-ba87904ef9ad)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.CV0uOOjuOP" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-tm8k" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="VM (e3db0817-6ab8-4e31-82ed-f6ebba7194ae)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.3nZvV6oT6i" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-vm" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-vm" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

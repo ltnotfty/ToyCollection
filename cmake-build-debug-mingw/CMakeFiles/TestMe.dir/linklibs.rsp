@@ -1,0 +1,1 @@
+  -LD:/Project/TestMe/ThirdParty  Mutils/libMutils.a Malgorithm/libMalgorithm.a MDataStruct/libMDataStruct.a MConfig/libMConfig.a -Wl,-Bstatic -lyaml-cppd Mutils/libMutils.a -Wl,-Bdynamic -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

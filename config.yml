@@ -1,0 +1,60 @@
+
+---
+type: myInfo
+
+
+name: yaml
+a: 2
+b: 10
+c: 12.12312
+d: -1.21e12
+# e: 3/4
+f: 3fff
+
+list:
+  [
+    160301,
+    504f5354202f,
+    474554202f636f6d,
+    5353482d,
+    0501,
+    434f4e4e454354,
+    7b22
+  ]
+
+field:
+  [
+    xox,
+    1
+  ]
+
+
+fruits:
+  {
+      orange: 1,
+      apple: 2,
+  }
+
+pointArr:
+  - [3,2]
+  - [2,3]
+  - [1,4]
+
+
+
+test:
+  {
+    fst: 'a',
+    sec: 'b',
+    trd: 'c'
+  }
+
+LiMing: 13
+
+
+First:
+  Second:
+    Third: 3
+  Tom: 2
+
+

@@ -1,0 +1,163 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "Mutils",
+					"jsonFile" : "directory-Mutils-Debug-a7beee5a6760a5fd59fc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Mutils",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Malgorithm",
+					"jsonFile" : "directory-Malgorithm-Debug-f13452b82218495ba837.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Malgorithm",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "MDataStruct",
+					"jsonFile" : "directory-MDataStruct-Debug-9a25f2f48066077bd580.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MDataStruct",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "MConfig",
+					"jsonFile" : "directory-MConfig-Debug-7f8dc4d009e6a5279305.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MConfig",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "TestMe",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "MConfig::@8c13a2ee92a5612cc6bd",
+					"jsonFile" : "target-MConfig-Debug-ea91bf16d9195601ea23.json",
+					"name" : "MConfig",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MDataStruct::@56398e0c442b88fc0098",
+					"jsonFile" : "target-MDataStruct-Debug-503dda7dcff34398ce18.json",
+					"name" : "MDataStruct",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Malgorithm::@b5032c5ee2eaca699a6d",
+					"jsonFile" : "target-Malgorithm-Debug-0019146198a0815ad774.json",
+					"name" : "Malgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Mutils::@aa137bdceb208c777fd2",
+					"jsonFile" : "target-Mutils-Debug-b910dcd2256285e26ae8.json",
+					"name" : "Mutils",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestMe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestMe-Debug-5164b0ffffa6acb91e4e.json",
+					"name" : "TestMe",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Project/TestMe/cmake-build-debug-mingw",
+		"source" : "D:/Project/TestMe"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

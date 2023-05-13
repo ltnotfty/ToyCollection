@@ -1,0 +1,2 @@
+D:/Cygwin/bin/ar.exe qc libMutils.a CMakeFiles/Mutils.dir/IniParser.cpp.obj CMakeFiles/Mutils.dir/MyTimeRecorder.cpp.obj CMakeFiles/Mutils.dir/OSUtils.cpp.obj CMakeFiles/Mutils.dir/StrUtils.cpp.obj
+D:/Cygwin/bin/ranlib.exe libMutils.a
